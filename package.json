@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "fabrica4": "file:",
     "next": "15.3.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
